@@ -1,0 +1,739 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="8" />
+    <option name="CUSTOM_SCOPE_NAME" value="打开文件" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="da9b6d15-2026-4bbf-92c4-7a74fe705c3b" name="默认" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Demo1$PersonTest.ic" NAME="PersonTest Coverage Results" MODIFIED="1528595258722" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>cn.test.wuw.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="PlaneWar.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/plane/control/PlaneWar.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="299">
+              <caret line="30" column="36" lean-forward="true" selection-start-line="30" selection-start-column="36" selection-end-line="30" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Award.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/plane/basic/Award.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="138">
+              <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Score.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/plane/basic/Score.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="46">
+              <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/cn/fucktest/wuw/Base64e.java" />
+        <option value="$PROJECT_DIR$/src/cn/fucktest/wuw/TestOut.java" />
+        <option value="$PROJECT_DIR$/src/cn/guideschool/wsgl/Matrix.java" />
+        <option value="$PROJECT_DIR$/src/cn/guideschool/wsgl/TestOut1.java" />
+        <option value="$PROJECT_DIR$/src/cn/guideschool/wsgl/JsplitPane.java" />
+        <option value="$PROJECT_DIR$/src/cn/guideschool/wsgl/MapOut.java" />
+        <option value="$PROJECT_DIR$/src/cn/guideschool/wsgl/Location.java" />
+        <option value="$PROJECT_DIR$/src/cn/guideschool/wsgl/Map.java" />
+        <option value="$PROJECT_DIR$/src/cn/guideschool/wsgl/Test.java" />
+        <option value="$PROJECT_DIR$/src/cn/guideschool/wsgl/Function.java" />
+        <option value="$PROJECT_DIR$/src/com/pat/wuw/BignumAdd.java" />
+        <option value="$PROJECT_DIR$/src/com/fuckclass/wuw/Test.java" />
+        <option value="$PROJECT_DIR$/src/com/test/wuw/ColorCho.java" />
+        <option value="$PROJECT_DIR$/src/com/test/wuw/BoxColor.java" />
+        <option value="$PROJECT_DIR$/src/com/test/wuw/BoxGraay.java" />
+        <option value="$PROJECT_DIR$/src/com/test/wuw/PageCho.java" />
+        <option value="$PROJECT_DIR$/src/com/test/wuw/A4.java" />
+        <option value="$PROJECT_DIR$/src/com/test/wuw/B5.java" />
+        <option value="$PROJECT_DIR$/src/com/test/wuw/Color.java" />
+        <option value="$PROJECT_DIR$/src/com/test/wuw/Page.java" />
+        <option value="$PROJECT_DIR$/src/com/test/wuw/Printer.java" />
+        <option value="$PROJECT_DIR$/src/com/test/wuw/Test.java" />
+        <option value="$PROJECT_DIR$/src/com/plane/basic/Getscore.java" />
+        <option value="$PROJECT_DIR$/src/com/plane/basic/Score.java" />
+        <option value="$PROJECT_DIR$/src/com/plane/parent/Flying.java" />
+        <option value="$PROJECT_DIR$/src/com/plane/son/EnemyPlan.java" />
+        <option value="$PROJECT_DIR$/src/com/plane/son/Bee.java" />
+        <option value="$PROJECT_DIR$/src/com/plane/son/Hero.java" />
+        <option value="$PROJECT_DIR$/src/com/plane/son/PlaneWar.java" />
+        <option value="$PROJECT_DIR$/src/com/plane/son/Bullet.java" />
+        <option value="$PROJECT_DIR$/src/com/plane/parent/FlyingObject.java" />
+        <option value="$PROJECT_DIR$/src/com/plane/one/Bee.java" />
+        <option value="$PROJECT_DIR$/src/com/plane/one/Bullet.java" />
+        <option value="$PROJECT_DIR$/src/com/plane/parent/Enemy.java" />
+        <option value="$PROJECT_DIR$/src/com/test/carrent/AutoCar.java" />
+        <option value="$PROJECT_DIR$/src/com/test/carrent/Bus.java" />
+        <option value="$PROJECT_DIR$/src/com/test/carrent/Car.java" />
+        <option value="$PROJECT_DIR$/src/com/test/carrent/CarBiz.java" />
+        <option value="$PROJECT_DIR$/src/com/test/carrent/CarRentManage.java" />
+        <option value="$PROJECT_DIR$/src/com/test/phone/HandSet.java" />
+        <option value="$PROJECT_DIR$/src/com/test/phone/TakePhotos.java" />
+        <option value="$PROJECT_DIR$/src/com/test/phone/NetWort.java" />
+        <option value="$PROJECT_DIR$/src/com/test/phone/PlaySong.java" />
+        <option value="$PROJECT_DIR$/src/com/test/phone/CommonHandset.java" />
+        <option value="$PROJECT_DIR$/src/com/test/phone/SmartHandset.java" />
+        <option value="$PROJECT_DIR$/src/com/test/printer/ColorCho.java" />
+        <option value="$PROJECT_DIR$/src/com/test/printer/PageCho.java" />
+        <option value="$PROJECT_DIR$/src/com/plane/one/EnemyPlan.java" />
+        <option value="$PROJECT_DIR$/src/com/plane/basic/Award.java" />
+        <option value="$PROJECT_DIR$/src/com/plane/one/Hero.java" />
+        <option value="$PROJECT_DIR$/src/com/plane/one/PlaneWar.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="769" />
+    <option name="width" value="607" />
+    <option name="height" value="775" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="planeWar" type="b2602c69:ProjectViewProjectNode" />
+              <item name="planeWar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="planeWar" type="b2602c69:ProjectViewProjectNode" />
+              <item name="planeWar" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="planeWar" type="b2602c69:ProjectViewProjectNode" />
+              <item name="planeWar" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="plane" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://D:/newjava/Demo1/src/com/wednesday_1/wuw/Consumlist.java" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="模块" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.PlaneWar">
+    <configuration name="CarRentManage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.test.carrent.CarRentManage" />
+      <module name="planeWar" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.carrent.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Money" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.homework.wuw.Money" />
+      <module name="planeWar" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.homework.wuw.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="PlaneWar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.plane.control.PlaneWar" />
+      <module name="planeWar" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.plane.control.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Test (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.guideschool.wsgl.Test" />
+      <module name="planeWar" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.guideschool.wsgl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fuckclass.wuw.Test" />
+      <module name="planeWar" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fuckclass.wuw.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.test.printer.Test" />
+      <module name="Demo1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.printer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <list>
+      <item itemvalue="Application.Money" />
+      <item itemvalue="Application.Test" />
+      <item itemvalue="Application.PlaneWar" />
+      <item itemvalue="Application.Test (2)" />
+      <item itemvalue="Application.CarRentManage" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PlaneWar" />
+        <item itemvalue="Application.CarRentManage" />
+        <item itemvalue="Application.Test (2)" />
+        <item itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="da9b6d15-2026-4bbf-92c4-7a74fe705c3b" name="默认" comment="" />
+      <created>1523692965649</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1523692965649</updated>
+      <workItem from="1523692971590" duration="4506000" />
+      <workItem from="1523755314975" duration="2320000" />
+      <workItem from="1523771684571" duration="5408000" />
+      <workItem from="1523781550177" duration="3465000" />
+      <workItem from="1523867434539" duration="9419000" />
+      <workItem from="1523930476099" duration="9025000" />
+      <workItem from="1524037315360" duration="7702000" />
+      <workItem from="1524112926268" duration="3285000" />
+      <workItem from="1524116362658" duration="8721000" />
+      <workItem from="1524272135997" duration="1562000" />
+      <workItem from="1524274140463" duration="3466000" />
+      <workItem from="1524289021771" duration="3031000" />
+      <workItem from="1524293603452" duration="2714000" />
+      <workItem from="1524297888343" duration="3701000" />
+      <workItem from="1524358232056" duration="969000" />
+      <workItem from="1524360286011" duration="8322000" />
+      <workItem from="1524382955406" duration="3275000" />
+      <workItem from="1524387512535" duration="23000" />
+      <workItem from="1524388146576" duration="645000" />
+      <workItem from="1524490201369" duration="731000" />
+      <workItem from="1524631202849" duration="592000" />
+      <workItem from="1524645417404" duration="596000" />
+      <workItem from="1524799494343" duration="566000" />
+      <workItem from="1524806083845" duration="42000" />
+      <workItem from="1525421133372" duration="5333000" />
+      <workItem from="1525490461610" duration="1356000" />
+      <workItem from="1525492905844" duration="301000" />
+      <workItem from="1525493288816" duration="35000" />
+      <workItem from="1525493374325" duration="447000" />
+      <workItem from="1525494068636" duration="245000" />
+      <workItem from="1525494414155" duration="2287000" />
+      <workItem from="1525507316588" duration="26000" />
+      <workItem from="1525507399337" duration="574000" />
+      <workItem from="1525508043605" duration="2902000" />
+      <workItem from="1525511495208" duration="495000" />
+      <workItem from="1525512043911" duration="1884000" />
+      <workItem from="1525514081589" duration="347000" />
+      <workItem from="1525514611960" duration="245000" />
+      <workItem from="1525520540819" duration="3413000" />
+      <workItem from="1525525536104" duration="687000" />
+      <workItem from="1525568988282" duration="12535000" />
+      <workItem from="1525602658537" duration="19626000" />
+      <workItem from="1525868566717" duration="11758000" />
+      <workItem from="1526087566617" duration="26666000" />
+      <workItem from="1526213150506" duration="27000" />
+      <workItem from="1526380534260" duration="3081000" />
+      <workItem from="1526385932677" duration="3350000" />
+      <workItem from="1526450354016" duration="10747000" />
+      <workItem from="1526534414805" duration="4908000" />
+      <workItem from="1526692043526" duration="4961000" />
+      <workItem from="1526699481724" duration="10193000" />
+      <workItem from="1526728062821" duration="5728000" />
+      <workItem from="1526778592205" duration="15335000" />
+      <workItem from="1526955963098" duration="50000" />
+      <workItem from="1527299120428" duration="1610000" />
+      <workItem from="1527301752005" duration="9002000" />
+      <workItem from="1527384484605" duration="12279000" />
+      <workItem from="1527579708939" duration="846000" />
+      <workItem from="1527901654456" duration="7983000" />
+      <workItem from="1527912715950" duration="762000" />
+      <workItem from="1527920577605" duration="3736000" />
+      <workItem from="1527988385463" duration="13863000" />
+      <workItem from="1528508698096" duration="1160000" />
+      <workItem from="1528509908884" duration="2615000" />
+      <workItem from="1528512577340" duration="3858000" />
+      <workItem from="1528553818557" duration="813000" />
+      <workItem from="1528593058607" duration="2062000" />
+      <workItem from="1528595372250" duration="16143000" />
+      <workItem from="1528646256610" duration="511000" />
+      <workItem from="1529028194869" duration="6273000" />
+      <workItem from="1529054171701" duration="40000" />
+      <workItem from="1529322502553" duration="5154000" />
+      <workItem from="1529502936992" duration="94000" />
+      <workItem from="1530069257161" duration="1072000" />
+      <workItem from="1530099489314" duration="3154000" />
+      <workItem from="1530103118044" duration="4319000" />
+      <workItem from="1530112817606" duration="4580000" />
+      <workItem from="1530144207787" duration="41785000" />
+      <workItem from="1530251923536" duration="4732000" />
+      <workItem from="1530267288640" duration="195000" />
+      <workItem from="1531459104607" duration="3872000" />
+      <workItem from="1531492192795" duration="603000" />
+      <workItem from="1531492914515" duration="680000" />
+      <workItem from="1531531498192" duration="14373000" />
+      <workItem from="1531553766972" duration="5867000" />
+      <workItem from="1531618194654" duration="643000" />
+      <workItem from="1531619908096" duration="23047000" />
+      <workItem from="1531661898353" duration="2065000" />
+      <workItem from="1531703038023" duration="746000" />
+      <workItem from="1531799904029" duration="208000" />
+      <workItem from="1531917314903" duration="457000" />
+      <workItem from="1531917908720" duration="2887000" />
+      <workItem from="1531928521470" duration="602000" />
+      <workItem from="1531960464663" duration="240000" />
+      <workItem from="1532134229937" duration="118000" />
+      <workItem from="1537585656905" duration="711000" />
+      <workItem from="1540019615574" duration="249000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="439637000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3298969" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.41633466" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info id="Image Layers" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="7" weight="0.037821483" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.13504823" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="right" id="调色板" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29425114" />
+      <window_info id="设计器" order="2" />
+      <window_info anchor="right" id="Database" order="5" weight="0.32980332" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.32980332" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.85303515" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection Results" order="12" weight="0.52715653" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.74115753" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info id="设计器" order="2" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.38906753" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1732224" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.32980332" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3298969" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Inspection Results" order="12" weight="0.52715653" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.74276525" />
+      <window_info anchor="right" id="Database" order="5" weight="0.32980332" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.85303515" />
+      <window_info anchor="right" id="调色板" order="6" />
+      <window_info id="Image Layers" order="6" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.41633466" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="87" />
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="y" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>y</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/cn/fucktest/wuw/Host.java" />
+    <entry file="file://$PROJECT_DIR$/src/cn/fucktest/wuw/ExceptionList.java" />
+    <entry file="file://$PROJECT_DIR$/src/cn/fucktest/wuw/Dog.java" />
+    <entry file="file://$PROJECT_DIR$/src/cn/fucktest/wuw/Cat.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/friday_1/wuw/Grade.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/friday_1/wuw/ConsumList.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/friday_1/wuw/Apple.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/fuck/wuw/AddCom.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/pat/wuw/ReverString.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/pat/wuw/Pat1003.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/pat/wuw/Pat1002.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/pat/wuw/Pat1001.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/pat/wuw/MatchTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/pat/wuw/BignumAdd.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/fuckclass/wuw/Test.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/test/printer/BoxGraay.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/test/printer/BoxColor.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/test/printer/B5.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/test/printer/A4.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/test/printer/Printer.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/plane/wuw.java" />
+    <entry file="file://$PROJECT_DIR$/src/cn/guideschool/wsgl/MapOut.java" />
+    <entry file="file://$PROJECT_DIR$/src/cn/guideschool/wsgl/Test.java" />
+    <entry file="file://$PROJECT_DIR$/src/cn/guideschool/wsgl/Function.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/plane/flyingPar/Enemy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/test/carrent/Car.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/test/carrent/Bus.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/test/carrent/AutoCar.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/test/phone/PlaySong.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/test/phone/TakePhotos.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/test/phone/NetWort.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/test/phone/SmartHandset.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/test/phone/CommonHandset.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/test/phone/HandSet.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/test/carrent/CarRentManage.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/test/printer/ColorCho.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/test/printer/PageCho.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/test/carrent/CarBiz.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/test/printer/Test.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/test/printer/Page.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/test/printer/Color.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/plane/flyingSon/EnemyPlan.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="24" column="16" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/plane/flyingSon/Hero.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1173">
+          <caret line="67" column="23" selection-start-line="67" selection-start-column="23" selection-end-line="67" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../mail-1.4.7.jar!/META-INF/maven/javax.mail/mail/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/src/com/plane/flyingSon/Bee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-363">
+          <caret line="11" column="26" lean-forward="true" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/plane/flyingSon/Bullet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="28" column="33" selection-start-line="28" selection-start-column="33" selection-end-line="28" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/plane/flyingPar/FlyingObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="63" column="41" lean-forward="true" selection-start-line="63" selection-start-column="41" selection-end-line="63" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/plane/basic/Award.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/plane/basic/Score.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/plane/control/PlaneWar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="30" column="36" lean-forward="true" selection-start-line="30" selection-start-column="36" selection-end-line="30" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Demo1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
